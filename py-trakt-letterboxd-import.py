@@ -14,9 +14,9 @@ import os.path
 import datetime
 
 
-CLIEN_ID= '' #Fill in your client id
-CLIEN_SECRECT = '' #Fill in your client secred
-CODE = '' #Fill in your code, which you get after authorization with your trakt account
+CLIEN_ID= 'f4a941541efb963ada9dea12ef1b5664f1d6cf58abf5b596b53c2bcd96c690b6' #Fill in your client id
+CLIEN_SECRECT = '318854341d055420b2e55aae4a2f697456076081ecd1b1dcba73fb095b960106' #Fill in your client secred
+CODE = '6336D3AD' #Fill in your code, which you get after authorization with your trakt account
 
 
 # Optional: Use an API for obtaining imdb id
